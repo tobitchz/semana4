@@ -1,0 +1,15 @@
+C:\Users\tojoa\Desktop\EjerciciosDOO\semana4\semana4\bin\Debug\net8.0\semana4.exe
+C:\Users\tojoa\Desktop\EjerciciosDOO\semana4\semana4\bin\Debug\net8.0\semana4.deps.json
+C:\Users\tojoa\Desktop\EjerciciosDOO\semana4\semana4\bin\Debug\net8.0\semana4.runtimeconfig.json
+C:\Users\tojoa\Desktop\EjerciciosDOO\semana4\semana4\bin\Debug\net8.0\semana4.dll
+C:\Users\tojoa\Desktop\EjerciciosDOO\semana4\semana4\bin\Debug\net8.0\semana4.pdb
+C:\Users\tojoa\Desktop\EjerciciosDOO\semana4\semana4\obj\Debug\net8.0\semana4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tojoa\Desktop\EjerciciosDOO\semana4\semana4\obj\Debug\net8.0\semana4.AssemblyInfoInputs.cache
+C:\Users\tojoa\Desktop\EjerciciosDOO\semana4\semana4\obj\Debug\net8.0\semana4.AssemblyInfo.cs
+C:\Users\tojoa\Desktop\EjerciciosDOO\semana4\semana4\obj\Debug\net8.0\semana4.csproj.CoreCompileInputs.cache
+C:\Users\tojoa\Desktop\EjerciciosDOO\semana4\semana4\obj\Debug\net8.0\semana4.sourcelink.json
+C:\Users\tojoa\Desktop\EjerciciosDOO\semana4\semana4\obj\Debug\net8.0\semana4.dll
+C:\Users\tojoa\Desktop\EjerciciosDOO\semana4\semana4\obj\Debug\net8.0\refint\semana4.dll
+C:\Users\tojoa\Desktop\EjerciciosDOO\semana4\semana4\obj\Debug\net8.0\semana4.pdb
+C:\Users\tojoa\Desktop\EjerciciosDOO\semana4\semana4\obj\Debug\net8.0\semana4.genruntimeconfig.cache
+C:\Users\tojoa\Desktop\EjerciciosDOO\semana4\semana4\obj\Debug\net8.0\ref\semana4.dll
