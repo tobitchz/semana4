@@ -15,7 +15,7 @@ namespace Program
 {
     class Program
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
 
 
@@ -23,6 +23,7 @@ namespace Program
 
             persona1.nombre = "Ana";
             persona1.dni = 46361742;
+
             persona1.SetEdad(4);
 
             persona1.MostrarDatos();
